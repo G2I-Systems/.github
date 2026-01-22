@@ -42,4 +42,4 @@ We specialize in **fullstack web development**, **backend services**, **APIs**, 
 * Collaboration and teamwork
 * Technical growth and quality-driven development
 
-> *Connecting Systems, Powering Innovation.*
+> *Building tools that drive time and business.*
